@@ -1,6 +1,6 @@
 ### 👋 Hey there! I'm Marc, a software engineer at Hy-Vee, Inc. 
 
-I work mostly back-end in Kotlin and C#, but have a soft-spot for front-end web dev (VUE <3)!
+I work mostly back-end in Kotlin and C#, but have a soft-spot for front-end web dev (VUE :heart:)!
 
 <!--
 **MMShep97/mmshep97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
