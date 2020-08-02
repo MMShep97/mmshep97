@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hey! I'm Marc, a software engineer at Hy-Vee, Inc.
 
 <!--
 **MMShep97/mmshep97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
