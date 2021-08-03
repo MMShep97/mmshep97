@@ -1,6 +1,6 @@
 ### 👋 Hey there! I'm Marc, a software engineer at Hy-Vee, Inc. 
 
-I work mostly back-end in Kotlin and C#, but have a soft-spot for front-end web dev (VUE :heart:)!
+I work mostly on back-end services in Kotlin and C#, but have a soft-spot for front-end web dev (VUE :heart:)!
 
 ![Marc's github stats](https://github-readme-stats.vercel.app/api?username=mmshep97&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmshep97&layout=compact)](https://github.com/mmshep97/github-readme-stats)
